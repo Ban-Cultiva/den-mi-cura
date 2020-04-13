@@ -14,4 +14,4 @@ Want to contribute? Just send us a pull request for review :muscle:. Your contri
 * Robin Leslie
 * Patrick Kock
 * James Ocalia
-* Nora Ritter
+* Nora Ritter-Laclé
