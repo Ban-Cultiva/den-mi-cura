@@ -4,7 +4,7 @@
 Want to contribute? Just send us a pull request for review :muscle:. Your contribution is key to ensure that this knowledge remains for future generations to come and will hopefully help the islands become more resilient in food while remaining respectful of nature and our environment.
 
 # :blue_book: Table of contents
-1. What should you plant?
+1. [What should you plant?](1/grow-matrix.md)
 
 # :earth_americas: Current contributors
 * Jean-pierre Farro
