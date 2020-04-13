@@ -1,13 +1,13 @@
-#  1. What should you plant?
+#  1.1 Grow matrix
 List of **quick and easy** vegetables, flowers, and fruits that have been shown to grow well in the ABC climate and have a high nutritional value.
 
-## Legend
+## 1.1.1 Legend
 * **-** : no data (yet)
 * :heavy_check_mark: : suited
 * Country flags:
   * Aruba: :aruba:, Bonaire: :caribbean_netherlands:, Curaçao: :curacao:, Colombia: :colombia:, US: :us:
 
-## Grow matrix
+## 1.1.2 List
 Crops | Where to buy | Days to harvest | Nutritional benefits | % Shade | Grow bed | Grow tower | Grow bag | Other
 ----- | ------------ | --------------- | -------------------- | ----- | -------- | ---------- | -------- | -----
 Bascilicum | [Bentley Seeds](https://bentleyseeds.com/) :us: | 70 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
