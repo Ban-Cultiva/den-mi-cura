@@ -1,4 +1,4 @@
-#  1.1 Grow matrix
+#  1.1 Grow matrix for crops
 List of **quick and easy** vegetables, flowers, and fruits that have been shown to grow well in the ABC climate and have a high nutritional value.
 
 ## 1.1.1 Legend
