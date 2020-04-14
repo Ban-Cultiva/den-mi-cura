@@ -9,5 +9,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Greetings, we cannot say thank you enough to report your first issue!'
-        pr-message: 'Thanks! Our team of maintainers will assess your first pull request and will notify you if anything. Our islands need more people like you, keep up the great work!'
+        issue-message: 'Greetings, we cannot say thank you enough to report your'' first issue''!'
+        pr-message: 'Thanks! Our team of maintainers will assess your'' first pr ''and will notify you if anything. Our islands need more people like you, keep up the great work!'
