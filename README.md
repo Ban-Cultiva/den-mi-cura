@@ -14,6 +14,6 @@ Click on a link below to dive right in.
 * [Francis Laclé](https://github.com/flacle)
 * Leopold Laclé
 * Robin Leslie
-* Patrick Kock
+* [Patrick Kock](https://github.com/Pasashpasash)
 * James Ocalia
 * Nora Ritter-Laclé
