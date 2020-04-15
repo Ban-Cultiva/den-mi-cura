@@ -17,7 +17,7 @@ Bosui | Grocery stores | 65 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark
 Calbas largo (vining) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 126 | - | - | :heavy_check_mark: | - | - | -
 Cilantro | [Johnny's](https://www.johnnyseeds.com/) :us: | 50-55 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Corn (organic) | [Rare Seeds](https://rareseeds.com/) :us: | 73 | - | - | :heavy_check_mark: | - | - | -
-Cucumber | [Impulse Semillas](http://www.impulsemillas.com/) :colombia: | - | - | - | - | - | - | -
+Cucumber | [Impulse Semillas](http://www.impulsemillas.com/) :colombia: | 55-65 | - | - | - | - | - | -
 Cucumber - Aruban (needs bees) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 45-52 | Zinc & Vitamin C | 0 | :heavy_check_mark: | - | - | -
 Cucumber - regular | [Flora Market](https://flora.aw/) :aruba: | 58 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Eggplant - Asian | Grocery stores | 58 | - | - | - | - | - | -
