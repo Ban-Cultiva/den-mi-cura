@@ -36,6 +36,7 @@ Flowers attract pollinators and keep certain pests at bay:
 * Papaya
 * Bananas
 * Mango (from stek, not seed)
+* Soursop
 
 ## 1.2.6 Bonus: Moringa tree
 The [moringa tree](https://en.wikipedia.org/wiki/Moringa_oleifera) has a variety of nutritional benefits, attracs pollinators and can be used in the creation of mulch. ** More information pending.**
