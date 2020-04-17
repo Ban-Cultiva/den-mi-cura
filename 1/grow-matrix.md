@@ -13,7 +13,6 @@ Crops | Where to buy | Days to harvest | Nutritional benefits | % Shade | Grow b
 Bascilicum | [Bentley Seeds](https://bentleyseeds.com/) :us: | 70 | Vitamin K, A. Manganese, Iron | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Beans (bonchi cunucu) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 85 | Proteins | 30-40 | :heavy_check_mark: | - | - | -
 Bitter melon | Grocery Stores | 84-112 | Vitamin C, Folate | - | - | - | - | -
-Scallion (Bosui) | Grocery stores | 65 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Calbas largo (vining) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 126 | - | - | :heavy_check_mark: | - | - | -
 Cilantro (Coriander) | [Johnny's](https://www.johnnyseeds.com/) :us: | 50-55 | Vitamin K, A, C. Manganese, Iron | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Corn (organic) | [Rare Seeds](https://rareseeds.com/) :us: | 73 | - | - | :heavy_check_mark: | - | - | -
@@ -37,6 +36,7 @@ Paksoi | [Johnny's](https://www.johnnyseeds.com/) :us: | 45 | - | 30-40 | :heavy
 Parsley | [Johnny's](https://www.johnnyseeds.com/) :us: | 75 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Peanuts | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 90 | Protein | - | :heavy_check_mark: | - | :heavy_check_mark: | - 
 Rucola | [Bentley Seeds](https://bentleyseeds.com/) :us: | 40 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
+Scallion (Bosui) | Grocery stores | 65 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Spinazie malabar | - | 85 | Vitamin K | 30-40 | :heavy_check_mark: | - | - | -
 Summer radish | [Bentley Seeds](https://bentleyseeds.com/) :us: | 30 | Potassium, Vitamin C, Fibers | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Sunflower | [Bentley Seeds](https://bentleyseeds.com/) :us: | 70-85 | - | 30-40 | :heavy_check_mark: | - | - | - 
