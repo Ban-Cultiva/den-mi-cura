@@ -10,12 +10,12 @@ List of **quick and easy** vegetables, flowers, and fruits that have been shown 
 ## 1.1.2 List
 Crops | Where to buy | Days to harvest | Nutritional benefits | % Shade | Grow bed | Grow tower | Grow bag | Other
 ----- | ------------ | --------------- | -------------------- | ----- | -------- | ---------- | -------- | -----
-Bascilicum | [Bentley Seeds](https://bentleyseeds.com/) :us: | 70 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
+Bascilicum | [Bentley Seeds](https://bentleyseeds.com/) :us: | 70 | Vitamin K, A. Manganese, Iron | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Beans (bonchi cunucu) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 85 | Proteins | 30-40 | :heavy_check_mark: | - | - | -
-Bittermelon | Grocery Stores | 84-112 | Blood sugar regulation | - | - | - | - | -
-Bosui | Grocery stores | 65 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
+Bitter melon | Grocery Stores | 84-112 | Vitamin C, Folate | - | - | - | - | -
+Scallion (Bosui) | Grocery stores | 65 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Calbas largo (vining) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 126 | - | - | :heavy_check_mark: | - | - | -
-Cilantro | [Johnny's](https://www.johnnyseeds.com/) :us: | 50-55 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
+Cilantro (Coriander) | [Johnny's](https://www.johnnyseeds.com/) :us: | 50-55 | Vitamin K, A, C. Manganese, Iron | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Corn (organic) | [Rare Seeds](https://rareseeds.com/) :us: | 73 | - | - | :heavy_check_mark: | - | - | -
 Cucumber | [Impulse Semillas](http://www.impulsemillas.com/) :colombia: | 55-65 | - | - | - | - | - | -
 Cucumber - Aruban (needs bees) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 45-52 | Zinc & Vitamin C | 0 | :heavy_check_mark: | - | - | -
