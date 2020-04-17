@@ -5,7 +5,7 @@ Want to contribute? Just send us a pull request for review :muscle:. Your contri
 
 # :blue_book: Table of contents
 Click on a link below to dive right in.
-1. [What should I plant?](1/what-should-i-plant.md)
+1. [What should I plant?](1/README.md)
    1. [Grow matrix for crops](1/grow-matrix.md)
    1. [The top 5's](1/top-5.md)
 
