@@ -16,11 +16,11 @@ Bitter melon | Grocery Stores | 84-112 | Vitamin C, Folate | - | - | - | - | -
 Calbas largo (vining) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 126 | - | - | :heavy_check_mark: | - | - | -
 Cilantro (Coriander) | [Johnny's](https://www.johnnyseeds.com/) :us: | 50-55 | Vitamin K, A, C. Manganese, Iron | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Corn (organic) | [Rare Seeds](https://rareseeds.com/) :us: | 73 | Vitamin B5, B1, Phosphorus | - | :heavy_check_mark: | - | - | -
-Cucumber | [Impulse Semillas](http://www.impulsemillas.com/) :colombia: | 55-65 | - | - | - | - | - | -
+Cucumber | [Impulse Semillas](http://www.impulsemillas.com/) :colombia: | 55-65 | Vitamin K, B5, Magnesium | - | - | - | - | -
 Cucumber - Aruban (needs bees) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 45-52 | Zinc & Vitamin C | 0 | :heavy_check_mark: | - | - | -
 Cucumber - regular | [Flora Market](https://flora.aw/) :aruba: | 58 | Vitamin K, B5, Magnesium | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
-Eggplant - Asian | Grocery stores | 58 | - | - | - | - | - | -
-Eggplant - Italian | [Flora Market](https://flora.aw/) :aruba: | 65 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
+Eggplant - Asian | Grocery stores | 58 | Manganese, Vitamin B5, B6 | - | - | - | - | -
+Eggplant - Italian | [Flora Market](https://flora.aw/) :aruba: | 65 | Manganese, Vitamin B5, B6 | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Ginger (rootstock) | Grocery Stores | 90 | - | - | - | - | - | -
 Kale | [Mi Simia](https://www.facebook.com/miSimia) :aruba: | 65 | Vitamin K | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Lettuce | [Johnny's](https://www.johnnyseeds.com/) :us: | 21-30 | - | 40 | - | :heavy_check_mark: | - | Hydroponics
