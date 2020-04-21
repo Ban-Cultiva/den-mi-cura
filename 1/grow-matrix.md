@@ -21,9 +21,9 @@ Cucumber - Aruban (needs bees) | [Santa Rosa](http://www.santarosa.aw/) :aruba: 
 Cucumber - regular | [Flora Market](https://flora.aw/) :aruba: | 58 | Vitamin K, B5, Magnesium | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Eggplant - Asian | Grocery stores | 58 | Manganese, Vitamin B5, B6 | - | - | - | - | -
 Eggplant - Italian | [Flora Market](https://flora.aw/) :aruba: | 65 | Manganese, Vitamin B5, B6 | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
-Ginger (rootstock) | Grocery Stores | 90 | - | - | - | - | - | -
-Kale | [Mi Simia](https://www.facebook.com/miSimia) :aruba: | 65 | Vitamin K | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
-Lettuce | [Johnny's](https://www.johnnyseeds.com/) :us: | 21-30 | - | 40 | - | :heavy_check_mark: | - | Hydroponics
+Ginger (rootstock) | Grocery Stores | 90 | Magnesium, Vitamin B6, Manganese | - | - | - | - | -
+Kale | [Mi Simia](https://www.facebook.com/miSimia) :aruba: | 65 | Vitamin K, C, Manganese | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
+Lettuce | [Johnny's](https://www.johnnyseeds.com/) :us: | 21-30 | Vitamin K, A, B9 | 40 | - | :heavy_check_mark: | - | Hydroponics
 Madame Jeanette - Aruban | [Island Harvest](http://islandharvestaruba.com/) :aruba: | 70-90 | - | 30-40 | :heavy_check_mark: | - | - | -
 Maishi Rabo (Sorghum) | [Southern Exposure](https://southernexposure.com/) :us: | 85-115 | - | - | :heavy_check_mark: | - | - | -
 Marigold | [Fantastic Gardens](http://fantasticgardensaruba.com/) :aruba: | 72-92 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
