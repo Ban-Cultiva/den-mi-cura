@@ -37,12 +37,12 @@ Pampuna (container variety) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 8
 Parsley | [Johnny's](https://www.johnnyseeds.com/) :us: | 75 | Vitamin K, C, A | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Peanuts | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 90 | Protein | Manganese, Vitamin B3, B9 | :heavy_check_mark: | - | :heavy_check_mark: | - 
 Scallion (Bosui) | Grocery stores | 65 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
-Spinazie malabar | - | 85 | Vitamin K | 30-40 | :heavy_check_mark: | - | - | -
-Summer radish | [Bentley Seeds](https://bentleyseeds.com/) :us: | 30 | Potassium, Vitamin C, Fibers | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
+Spinach malabar | - | 85 | Vitamin K, A, B9 | 30-40 | :heavy_check_mark: | - | - | -
+Summer radish | [Bentley Seeds](https://bentleyseeds.com/) :us: | 30 | Vitamin C, B9, Potassium | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Sunflower | [Bentley Seeds](https://bentleyseeds.com/) :us: | 70-85 | - | 30-40 | :heavy_check_mark: | - | - | - 
-Sweet pepper | [Flora Market](https://flora.aw/) :aruba: | 50-70 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
-Sweet potato (Ipomoea) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 90 | Fibers, Minerals | - | - | - | :heavy_check_mark: | -
-Tomato | [Flora Market](https://flora.aw/), [Mi Simia](https://www.facebook.com/miSimia) :aruba: | 75-85 | Vitamin C | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | - 
-Warmoes (rainbow swiss chard) | [Johnny's](https://www.johnnyseeds.com/) :us: | 55 | Potassium, Calcium, Magnesium | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
-Watermelon (crimson sweet, sugar baby) | [Mi Simia](https://www.facebook.com/miSimia) :aruba: | 85 | Hydration | - | :heavy_check_mark: | - | - | -
+Sweet pepper | [Flora Market](https://flora.aw/) :aruba: | 50-70 | Vitamin C, B6, K | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
+Sweet potato (Ipomoea) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 90 | Vitamin A, B5, B6 | - | - | - | :heavy_check_mark: | -
+Tomato | [Flora Market](https://flora.aw/), [Mi Simia](https://www.facebook.com/miSimia) :aruba: | 75-85 | Vitamin C, K, B6 | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | - 
+ Swiss chard | [Johnny's](https://www.johnnyseeds.com/) :us: | 55 |Vitamin K, A, C | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
+Watermelon (crimson sweet, sugar baby) | [Mi Simia](https://www.facebook.com/miSimia) :aruba: | 85 | Vitamin C, A, B5 | - | :heavy_check_mark: | - | - | -
 Zuchinni (black beauty, Ola Escaladora 42807) | [Johnny's](https://www.johnnyseeds.com/) :us: | 45 | - | - | - | - | - | -
