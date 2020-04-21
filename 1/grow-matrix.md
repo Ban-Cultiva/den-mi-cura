@@ -10,9 +10,11 @@ List of **quick and easy** vegetables, flowers, and fruits that have been shown 
 ## 1.1.2 List
 Crops | Where to buy | Days to harvest | Nutritional benefits | % Shade | Grow bed | Grow tower | Grow bag | Other
 ----- | ------------ | --------------- | -------------------- | ----- | -------- | ---------- | -------- | -----
+Arugula | [Bentley Seeds](https://bentleyseeds.com/) :us: | 40 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Bascilicum | [Bentley Seeds](https://bentleyseeds.com/) :us: | 70 | Vitamin K, A. Manganese, Iron | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Beans (bonchi cunucu) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 85 | Proteins | 30-40 | :heavy_check_mark: | - | - | -
 Bitter melon | Grocery Stores | 84-112 | Vitamin C, Folate | - | - | - | - | -
+Bok Choy | [Johnny's](https://www.johnnyseeds.com/) :us: | 45 | Vitamin C, K, B9 | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Calbas largo (vining) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 126 | - | - | :heavy_check_mark: | - | - | -
 Cilantro (Coriander) | [Johnny's](https://www.johnnyseeds.com/) :us: | 50-55 | Vitamin K, A, C. Manganese, Iron | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Corn (organic) | [Rare Seeds](https://rareseeds.com/) :us: | 73 | Vitamin B5, B1, Phosphorus | - | :heavy_check_mark: | - | - | -
@@ -28,14 +30,12 @@ Madame Jeanette - Aruban | [Island Harvest](http://islandharvestaruba.com/) :aru
 Maishi Rabo (Sorghum) | [Southern Exposure](https://southernexposure.com/) :us: | 85-115 | - | - | :heavy_check_mark: | - | - | -
 Marigold | [Fantastic Gardens](http://fantasticgardensaruba.com/) :aruba: | 72-92 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Melon (muscat, Aruban variety) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 75 | Hydration | - | :heavy_check_mark: | - | - | -
-Munt | [Island Harvest](http://islandharvestaruba.com/) :aruba: | 60 | - | 30-40 | :heavy_check_mark: | - | - | -  
+Mint | [Island Harvest](http://islandharvestaruba.com/) :aruba: | 60 | - | 30-40 | :heavy_check_mark: | - | - | -  
 Microgreens | [Johnny's](https://www.johnnyseeds.com/) :us: | 10-15 | - | 30-40 | - | - | - | Substrate
-Okra Clemson (spineless) | [Mi Simia](https://www.facebook.com/miSimia) :aruba:, Grocery Stores | 60-75 | Fibers, Magnesium | - | :heavy_check_mark: | - | - | -
-Pampuna (container variety) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 80 | - | 30-40 | :heavy_check_mark: | - | - | -
-Paksoi | [Johnny's](https://www.johnnyseeds.com/) :us: | 45 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
-Parsley | [Johnny's](https://www.johnnyseeds.com/) :us: | 75 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
-Peanuts | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 90 | Protein | - | :heavy_check_mark: | - | :heavy_check_mark: | - 
-Rucola | [Bentley Seeds](https://bentleyseeds.com/) :us: | 40 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
+Okra Clemson (spineless) | [Mi Simia](https://www.facebook.com/miSimia) :aruba:, Grocery Stores | 60-75 | Vitamin K, C, B1 | - | :heavy_check_mark: | - | - | -
+Pampuna (container variety) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 80 | Vitamin A, C, B2 | 30-40 | :heavy_check_mark: | - | - | -
+Parsley | [Johnny's](https://www.johnnyseeds.com/) :us: | 75 | Vitamin K, C, A | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
+Peanuts | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 90 | Protein | Manganese, Vitamin B3, B9 | :heavy_check_mark: | - | :heavy_check_mark: | - 
 Scallion (Bosui) | Grocery stores | 65 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Spinazie malabar | - | 85 | Vitamin K | 30-40 | :heavy_check_mark: | - | - | -
 Summer radish | [Bentley Seeds](https://bentleyseeds.com/) :us: | 30 | Potassium, Vitamin C, Fibers | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
