@@ -15,7 +15,6 @@ Bascilicum | [Bentley Seeds](https://bentleyseeds.com/) :us: | 70 | Vitamin K, A
 Beans (bonchi cunucu) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 85 | Proteins | 30-40 | :heavy_check_mark: | - | - | -
 Bitter melon | Grocery Stores | 84-112 | Vitamin C, Folate | - | - | - | - | -
 Bok Choy | [Johnny's](https://www.johnnyseeds.com/) :us: | 45 | Vitamin C, K, B9 | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
-Calbas largo (vining) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 126 | - | - | :heavy_check_mark: | - | - | -
 Cilantro (Coriander) | [Johnny's](https://www.johnnyseeds.com/) :us: | 50-55 | Vitamin K, A, C. Manganese, Iron | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Corn (organic) | [Rare Seeds](https://rareseeds.com/) :us: | 73 | Vitamin B5, B1, Phosphorus | - | :heavy_check_mark: | - | - | -
 Cucumber | [Impulse Semillas](http://www.impulsemillas.com/) :colombia: | 55-65 | Vitamin K, B5, Magnesium | - | - | - | - | -
@@ -26,6 +25,7 @@ Eggplant - Italian | [Flora Market](https://flora.aw/) :aruba: | 65 | Manganese,
 Ginger (rootstock) | Grocery Stores | 90 | Magnesium, Vitamin B6, Manganese | - | - | - | - | -
 Kale | [Mi Simia](https://www.facebook.com/miSimia) :aruba: | 65 | Vitamin K, C, Manganese | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Lettuce | [Johnny's](https://www.johnnyseeds.com/) :us: | 21-30 | Vitamin K, A, B9 | 40 | - | :heavy_check_mark: | - | Hydroponics
+Luffa (calbas largo) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 126 | - | - | :heavy_check_mark: | - | - | -
 Madame Jeanette - Aruban | [Island Harvest](http://islandharvestaruba.com/) :aruba: | 70-90 | Vitamin C, B6, Potassium | 30-40 | :heavy_check_mark: | - | - | -
 Maishi Rabo (Sorghum) | [Southern Exposure](https://southernexposure.com/) :us: | 85-115 | - | - | :heavy_check_mark: | - | - | -
 Marigold | [Fantastic Gardens](http://fantasticgardensaruba.com/) :aruba: | 72-92 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
