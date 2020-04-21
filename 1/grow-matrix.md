@@ -24,7 +24,7 @@ Eggplant - Italian | [Flora Market](https://flora.aw/) :aruba: | 65 | Manganese,
 Ginger (rootstock) | Grocery Stores | 90 | Magnesium, Vitamin B6, Manganese | - | - | - | - | -
 Kale | [Mi Simia](https://www.facebook.com/miSimia) :aruba: | 65 | Vitamin K, C, Manganese | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | Hydroponics
 Lettuce | [Johnny's](https://www.johnnyseeds.com/) :us: | 21-30 | Vitamin K, A, B9 | 40 | - | :heavy_check_mark: | - | Hydroponics
-Madame Jeanette - Aruban | [Island Harvest](http://islandharvestaruba.com/) :aruba: | 70-90 | - | 30-40 | :heavy_check_mark: | - | - | -
+Madame Jeanette - Aruban | [Island Harvest](http://islandharvestaruba.com/) :aruba: | 70-90 | Vitamin C, B6, Potassium | 30-40 | :heavy_check_mark: | - | - | -
 Maishi Rabo (Sorghum) | [Southern Exposure](https://southernexposure.com/) :us: | 85-115 | - | - | :heavy_check_mark: | - | - | -
 Marigold | [Fantastic Gardens](http://fantasticgardensaruba.com/) :aruba: | 72-92 | - | 30-40 | :heavy_check_mark: | :heavy_check_mark: | - | -
 Melon (muscat, Aruban variety) | [Santa Rosa](http://www.santarosa.aw/) :aruba: | 75 | Hydration | - | :heavy_check_mark: | - | - | -
